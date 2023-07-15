@@ -1,0 +1,122 @@
+.headbg{
+    width: 1300px;
+    height: 800px;
+    background: rgba(229, 84, 115, 0.10);
+}
+.headt{
+    display: flex;
+width: 500px;
+flex-direction: column;
+color: #272727;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-left: 80px;
+padding-bottom: 5px;
+padding-top: 150px;
+}
+.headp{
+    display: flex;
+width: 600px;
+flex-direction: column;
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding-left: 100px;
+}
+.btn{
+    color: #ffffff;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+margin-left: 100px;
+}
+.headdis{
+    display: flex;
+}
+.headimg{width: 450px;
+    height: 700px;
+    margin-top: 100px;
+    margin-left: 120px;
+}
+
+.mainhd{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 200px;
+margin-bottom: 5px;
+}
+.mainp{
+    display: flex;
+width: 594px;
+flex-direction: column;
+flex-shrink: 0;
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+margin-top: 10px;
+font-weight: 400;
+line-height: 30px;
+margin-left: 200px;
+margin-bottom: 2px;
+}
+.offclr{
+    color: rgba(229, 84, 115, 1);
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.mainbtn{
+    color: rgba(255, 255, 255, 1);
+font-family: Lato;
+font-size: 10px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 430px;
+display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+border-radius: 8px;
+background: #E55473;
+
+}
+.mainbg{
+    width: 1300px;
+height: 620px;
+border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+display: flex;
+}
+
+.mainimg{width: 350px;
+    height: 200px;
+    margin-top: 50px;
+    margin-left: 60
+    0px;
+}
+.maindis{
+    display: flex;
+}
